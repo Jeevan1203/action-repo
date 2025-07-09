@@ -50,4 +50,4 @@ You can include any dummy files:
 ## 🙌 Author
 
 **Jeevan Kumar Adapa**  
-Built for TechStaX Developer Assessment 2025
+Built for TechStaX Developer Assessment 2025.
